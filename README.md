@@ -11,10 +11,10 @@ Hi there, I'm **Ruminder Singh**, graduate student of **Master of Applied Comput
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently studying at Dalhousie University
-- 👯 I worked for Samsung for more than 2 years where I worked in Java and C for Knox Platform Team.
-- 🤔 To get deeper understanding of software development, I joined startup company, GreyOrange Robotics. While in MNCs there was process already in place for most of the companies, however in this company I learnt development of software from scratch. Here I worked in Spring Boot, explored microservices architectures which uses eureka server, and implemented new features in it.
-- 🤔 During my masters, I worked on different projects in which I learnt different languages, explored different databases and cloud services; like Python, React, Mongodb, Neo4j, AWS Services
+- 👨🏽‍💻 I’m currently studying at Dalhousie University and working as a Software Intern.
+- 👯 I worked for Samsung for more than 2 years where I developed features in Java and C for Knox Platform Team.
+- 🤔 To get deeper understanding of software development, I joined startup company, GreyOrange Robotics. I learnt development of software from scratch. Here I worked in Spring Boot, explored microservices architectures using eureka server, and developed new microservices and features.
+- 🤔 During my masters, I worked on different projects in which I learnt different languages, explored different databases and cloud services by Amazon, Microsoft; 
 - 💬 Ask me about anything, I am happy to help;
 
 ### My Tech Stack
