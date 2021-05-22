@@ -12,9 +12,9 @@ Hi there, I'm **Ruminder Singh**, graduate student of **Master of Applied Comput
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently studying at Dalhousie University and working as a Software Intern.
-- 👯 Recently I have started writing articles on using different software tools in your application which you can found <a href="https://web.cs.dal.ca/~ruminder/" target="_blank">here</a>
-- 🤔 To get deeper understanding of software development, I joined startup company, GreyOrange Robotics. I learnt development of software from scratch. Here I worked in Spring Boot, explored microservices architectures using eureka server, and developed new microservices and features.
+- 🤔 Before starting my Masters, I worked for Samsung R&D and warehouse automation using robots startup GreyOrange.
 - 🤔 During my masters, I worked on different projects in which I learnt different languages, explored different databases and cloud services by Amazon, Microsoft; 
+- 👯 Recently I have started writing articles on using different software tools in your application which you can found <a href="https://web.cs.dal.ca/~ruminder/" target="_blank">here</a>
 - 💬 Ask me about anything, I am happy to help;
 
 ### My Tech Stack
